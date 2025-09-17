@@ -1,2 +1,2 @@
 # Cool-calculator-Stuff
-stuff i made for ti calculators
+stuff made for ti calculators
